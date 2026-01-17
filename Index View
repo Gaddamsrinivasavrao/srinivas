@@ -1,0 +1,13 @@
+@{
+    ViewBag.Title = "Home Page";
+}
+
+<h2>@ViewBag.Message</h2>
+
+<p>
+    This is a sample ASP.NET MVC 4.8 application.
+</p>
+
+<p>
+    Server Time: @DateTime.Now
+</p>
